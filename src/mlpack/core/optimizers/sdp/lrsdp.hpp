@@ -41,7 +41,7 @@ class LRSDP
    * constraints.
    * @param numDenseConstraints Number of dense constraints in the problem.
    * @param numDenseInequalityConstraints Number of dense inequality
-   * constraints.
+   * constraints .
    * @param initialPoint Initial point of the optimization.
    * @param maxIterations Maximum number of iterations.
    */
